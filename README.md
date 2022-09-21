@@ -1,2 +1,2 @@
 # capstone
-print "Este es el archivo inicial del último curso"
+print "This is the Applied Data Science Capstone"
